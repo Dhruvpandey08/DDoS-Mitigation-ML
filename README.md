@@ -6,5 +6,3 @@ Trained and tested the dataset of DDoS network logs and predicted the accuracy o
 ![3](https://github.com/Dhruvpandey08/DDoS-Mitigation-ML/assets/87525399/908fef03-186f-4ec7-9bb5-57f32a16525f)
 ![4](https://github.com/Dhruvpandey08/DDoS-Mitigation-ML/assets/87525399/fa4cae0c-7edb-4f17-8c7c-fab8cc6f80ea)
 
-
-
